@@ -1,4 +1,4 @@
-# Đèn Giao Thông
+# Mô phỏng Đèn Giao Thông
 
 ## Mô tả
 Chương trình điều khiển mô phỏng đèn giao thông được phát triển bằng Python sử dụng thư viện `customtkinter` để tạo giao diện người dùng. Chương trình cho phép người dùng điều khiển đèn giao thông và cập nhật thời gian từ máy chủ.
